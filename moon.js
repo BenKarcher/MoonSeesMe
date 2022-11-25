@@ -1,6 +1,7 @@
 const coords = [
     //{ lat: 37.8867, lng: -122.2978, lbl: "B" },//albany
-    { lat: 44.9069, lng: -116.0999, lbl: "L" },//paradise point
+    //{ lat: 44.9069, lng: -116.0999, lbl: "L" },//paradise point
+    {lat:35.1983, lng: -111.6513, lbl:"L"},//flagstaff
     //{ lat: 43.6150, lng: -116.2023, lbl: "I" },//boise idaho
     { lat: 50.7374, lng: 7.0982, lbl: "B" },//bonn germany
     //{ lat: 19.4326, lng: -99.1332, lbl: "I" },//mexico city
